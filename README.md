@@ -4,7 +4,7 @@
 [![HitCount](http://hits.dwyl.com/Virus-Samples/Malware-Sample-Sources.svg)](https://github.com/anonymouschichvy/VirusCollection)
 [![GitHub stars](https://img.shields.io/github/stars/Virus-Samples/Malware-Sample-Sources.svg?style=social&label=Star&maxAge=2592000)](https://github.com/anonymouschichvy/VirusCollection)
 
-![Logo](https://github.com/anonymouschichvy/VirusCollection/blob/main/image/nanocollection.jpg)
+![Logo](https://github.com/anonymouschichvy/VirusCollection/blob/main/image/nanocollection-removebg-preview.png)
 
 ---
 **Malware can be tricky to find, much less having a solid understanding of all the possible places to find it,  This is a living repository where we have attempted to document as many resources as possible in order to make your job easier.  Please be sure to exercise EXTREME CAUTION when handling these files because as you well know, they have been designed and developed with malicious intent .**
