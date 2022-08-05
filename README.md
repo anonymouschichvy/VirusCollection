@@ -1,6 +1,6 @@
 # NANOVIRUS Sources - A Collection of Malware Sample of all Dangerous Virus
 
-[![Requests Welcome](https://img.shields.io/badge/requests-welcome-brightgreen.svg?style=round)](https://github.com/Virus-Samples/Malware-Sample-Sources/issues)
+[![Requests Welcome](https://img.shields.io/badge/requests-welcome-brightgreen.svg?style=round)](https://github.com/anonymouschichvy/VirusCollection/issues)
 [![HitCount](http://hits.dwyl.com/Virus-Samples/Malware-Sample-Sources.svg)](https://github.com/anonymouschichvy/VirusCollection)
 [![GitHub stars](https://img.shields.io/github/stars/Virus-Samples/Malware-Sample-Sources.svg?style=social&label=Star&maxAge=2592000)](https://github.com/anonymouschichvy/VirusCollection)
 
