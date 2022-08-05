@@ -1,10 +1,10 @@
 # NANOVIRUS Sources - A Collection of Malware Sample of all Dangerous Virus
 
 [![Requests Welcome](https://img.shields.io/badge/requests-welcome-brightgreen.svg?style=round)](https://github.com/Virus-Samples/Malware-Sample-Sources/issues)
-[![HitCount](http://hits.dwyl.com/Virus-Samples/Malware-Sample-Sources.svg)](http://hits.dwyl.com/MalwareSamples/Malware-Sample-Sources)
-[![GitHub stars](https://img.shields.io/github/stars/Virus-Samples/Malware-Sample-Sources.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Virus-Samples/Malware-Sample-Sources/stargazers/)
+[![HitCount](http://hits.dwyl.com/Virus-Samples/Malware-Sample-Sources.svg)](https://github.com/anonymouschichvy/VirusCollection)
+[![GitHub stars](https://img.shields.io/github/stars/Virus-Samples/Malware-Sample-Sources.svg?style=social&label=Star&maxAge=2592000)](https://github.com/anonymouschichvy/VirusCollection)
 
-![Logo](https://raw.githubusercontent.com/Virus-Samples/Malware-Sample-Sources/main/contrib/VirusSamples-logo.png)
+![Logo](https://github.com/anonymouschichvy/VirusCollection/blob/main/image/nanocollection.jpg)
 
 ---
 **Malware can be tricky to find, much less having a solid understanding of all the possible places to find it,  This is a living repository where we have attempted to document as many resources as possible in order to make your job easier.  Please be sure to exercise EXTREME CAUTION when handling these files because as you well know, they have been designed and developed with malicious intent .**
