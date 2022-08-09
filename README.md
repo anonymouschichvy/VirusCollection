@@ -22,6 +22,7 @@
 
 * [NANOLOV3YOUVIRUS_v1](https://github.com/anonymouschichvy/VirusCollection/blob/main/FILES/NANOLOV3YOUVIRUS_v1.zip)-:*This is the first Virus I made.*
 
+* [TROLLVIRUS](https://github.com/anonymouschichvy/VirusCollection/blob/main/FILES/NANOTROLLVIRUS.zip)-:Dangerous Joke virus
 ## WARNING ⚠️
 ---
 * This virus can run as lightning speed based on the computer.
